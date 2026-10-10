@@ -6,7 +6,7 @@ langchain-community
 langchain_huggingface
 langchain_google_genai
 langchain_chroma
-speech_recognition
+SpeechRecognition
 pydantic
 numpy
 pandas
