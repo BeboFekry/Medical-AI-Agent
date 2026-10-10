@@ -1,0 +1,8 @@
+langchain
+langgraph
+langchain_huggingface
+langchain_google_genai
+langchain_chroma
+speech_recognition
+pydantic
+pandas
