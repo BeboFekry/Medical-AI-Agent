@@ -21,7 +21,7 @@ with col2:
     st.header("The Smartest AI Medical Assistant\n\n## Ready to Chat!", text_alignment='center')
     st.markdown(":rainbow[Patient's reports assistant and guidelines, medical information retrieval]", text_alignment='center')
     mt = st.empty()
-    st.columns([1.47,1,1], vertical_alignment='top')[1].image(r"media\Ai Robot Vector Art.gif")
+    st.columns([1.47,1,1], vertical_alignment='top')[1].image(r"media/Ai Robot Vector Art.gif")
     if st.columns([2,1,2])[1].button(":material/chat: Chat", type='primary', width='stretch'):
         st.switch_page(chat)
     # st.page_link(chat, label='Chat', )
